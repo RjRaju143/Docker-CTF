@@ -1,0 +1,11 @@
+{
+ "name":"ultron",
+ "author" : "RjRaju",
+ "contact":"https://bit.ly/3yXmAlb",
+ "login" : {
+    "type" : "BackDoor",
+    "port" : "7127",
+    "username" : "ultron",
+    "password" : "MzIxQHRzQGMwSgo="
+   }
+}
